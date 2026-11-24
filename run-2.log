@@ -1,0 +1,69 @@
+nohup: ignoring input
+done: kem RSA-OAEP-3072 keygen 0
+done: kem RSA-OAEP-3072 encapsulate 0
+done: kem RSA-OAEP-3072 decapsulate 0
+done: kem RSA-OAEP-7680 keygen 0
+done: kem RSA-OAEP-7680 encapsulate 0
+done: kem RSA-OAEP-7680 decapsulate 0
+done: kem ECDH-P-256 keygen 0
+done: kem ECDH-P-256 encapsulate 0
+done: kem ECDH-P-256 decapsulate 0
+done: kem ECDH-P-384 keygen 0
+done: kem ECDH-P-384 encapsulate 0
+done: kem ECDH-P-384 decapsulate 0
+done: kem ECDH-P-521 keygen 0
+done: kem ECDH-P-521 encapsulate 0
+done: kem ECDH-P-521 decapsulate 0
+done: kem X25519 keygen 0
+done: kem X25519 encapsulate 0
+done: kem X25519 decapsulate 0
+done: kem ML-KEM-768 keygen 0
+done: kem ML-KEM-768 encapsulate 0
+done: kem ML-KEM-768 decapsulate 0
+done: kem ML-KEM-1024 keygen 0
+done: kem ML-KEM-1024 encapsulate 0
+done: kem ML-KEM-1024 decapsulate 0
+done: signature RSA-PSS-3072 keygen 0
+done: signature RSA-PSS-3072 sign 0
+done: signature RSA-PSS-3072 verify 0
+done: signature RSA-PSS-7680 keygen 0
+done: signature RSA-PSS-7680 sign 0
+done: signature RSA-PSS-7680 verify 0
+done: signature ECDSA-P-256 keygen 0
+done: signature ECDSA-P-256 sign 0
+done: signature ECDSA-P-256 verify 0
+done: signature ECDSA-P-384 keygen 0
+done: signature ECDSA-P-384 sign 0
+done: signature ECDSA-P-384 verify 0
+done: signature ECDSA-P-521 keygen 0
+done: signature ECDSA-P-521 sign 0
+done: signature ECDSA-P-521 verify 0
+done: signature Ed25519 keygen 0
+done: signature Ed25519 sign 0
+done: signature Ed25519 verify 0
+done: signature ML-DSA-44 keygen 0
+done: signature ML-DSA-44 sign 0
+done: signature ML-DSA-44 verify 0
+done: signature ML-DSA-65 keygen 0
+done: signature ML-DSA-65 sign 0
+done: signature ML-DSA-65 verify 0
+done: signature ML-DSA-87 keygen 0
+done: signature ML-DSA-87 sign 0
+done: signature ML-DSA-87 verify 0
+done: aead AES-128-GCM 64
+done: aead AES-128-GCM 1024
+done: aead AES-128-GCM 16384
+done: aead AES-128-GCM 1048576
+done: aead AES-256-GCM 64
+done: aead AES-256-GCM 1024
+done: aead AES-256-GCM 16384
+done: aead AES-256-GCM 1048576
+done: aead ChaCha20-Poly1305 64
+done: aead ChaCha20-Poly1305 1024
+done: aead ChaCha20-Poly1305 16384
+done: aead ChaCha20-Poly1305 1048576
+done: aead AES-256-GCM-SIV 64
+done: aead AES-256-GCM-SIV 1024
+done: aead AES-256-GCM-SIV 16384
+done: aead AES-256-GCM-SIV 1048576
+finished: wrote results/run-2/raw.csv
